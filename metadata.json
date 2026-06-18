@@ -1,0 +1,6 @@
+{
+  "name": "CineHub",
+  "description": "Il tuo catalogo completo di film, serie e K-drama gratuiti in italiano con watchlist offline e download simulati.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
